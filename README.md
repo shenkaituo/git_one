@@ -4,4 +4,4 @@
 #git commit -m "readme.cmd_01" -m添加备注
 #git commit --amend --no-edit 
 #amend 追加 先 add  不需要改备注文案 此时还没有push
-#
+#git pull --rebase origin master 合并版本
