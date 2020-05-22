@@ -5,3 +5,6 @@
 #git commit --amend --no-edit 
 #amend 追加 先 add  不需要改备注文案 此时还没有push
 #git pull --rebase origin master 合并版本
+git commit -m "first commit"
+git remote add origin https://github.com/shenkaituo/git_one.git
+git push -u origin master 
