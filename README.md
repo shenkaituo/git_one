@@ -8,3 +8,5 @@
 git commit -m "first commit"
 git remote add origin https://github.com/shenkaituo/git_one.git
 git push -u origin master 
+git remote rm origin
+https://www.cnblogs.com/leaf930814/p/6664706.html
